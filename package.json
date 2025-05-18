@@ -1,8 +1,9 @@
 {
   "blacklist": [
-    { "id": "#3WWORB", "name": "xQSx" },
-    { "id": "#R8VNJ5", "name": "MR_NOBODY" },
-    { "id": "#E3011S", "name": "DRAGON@BABY" },
-    { "id": "#SPSOJI", "name": "Tracy" }
+    { "username": "xQSx", "id": "#3WWORB" },
+    { "username": "MR_NOBODY", "id": "#R8VNJ5" },
+    { "username": "DRAGON@BABY", "id": "#E3011S" },
+    { "username": "Tracy", "id": "#SPSOJI" }
   ]
 }
+
